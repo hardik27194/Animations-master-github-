@@ -164,6 +164,11 @@
             [self.tableView insertRowsAtIndexPaths:indexPaths withRowAnimation:UITableViewRowAnimationFade];   
         }];
     }
+    
+    for (int i =0; i<3; i++)
+    {
+        
+    }
 }
 
 #pragma mark - Config TitleView.
